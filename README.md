@@ -7,3 +7,9 @@
 </p>
 
 Training a robot arm by using DDPG Alg
+
+### code breakdown:
+
+`env.py`: the environment
+`rl.py`: DDPG learning
+'main.py': main test file
